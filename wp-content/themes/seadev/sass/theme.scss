@@ -1,0 +1,9 @@
+@import "theme/variables";
+
+@import "assets/bootstrap4";// <--------- Loads Bootstrap4
+@import "assets/font-awesome"; // <------- Font Awesome Icon font
+
+@import "seadev/seadev";// <-------- Loads the Seadev defaults styles
+
+@import "theme/theme";
+@import "theme/responsive";

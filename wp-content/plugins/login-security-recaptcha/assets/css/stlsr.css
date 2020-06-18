@@ -1,0 +1,5 @@
+.g-recaptcha {
+	transform: scale(.9);
+	transform-origin: 0 0;
+	margin-bottom: .3rem;
+}

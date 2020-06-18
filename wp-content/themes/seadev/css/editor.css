@@ -1,0 +1,7 @@
+/** === Content Width === */
+.wp-block {
+  max-width: 90%; }
+  .wp-block .wp-block {
+    width: 90%; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImVkaXRvci5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUdBLDRCQUE0QjtBQUU1QjtFQUVFLGVBQWMsRUFLZjtFQVBEO0lBS0UsV0FBVSxFQUNWIiwiZmlsZSI6ImVkaXRvci5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIvL0FkZCB5b3VyIG93biBlZGl0b3Igc3R5bGVzIGhlcmUgb3IgY29tbWVudCBvdXQgdGhlIG5leHQgbGluZSBpZiB5b3Ugd2FudCB0byBwdWxsIGluIHRoZSB3aG9sZSBCb290c3RyYXAgc3R1ZmZcbi8vQGltcG9ydCBcInRoZW1lXCI7XG5cbi8qKiA9PT0gQ29udGVudCBXaWR0aCA9PT0gKi9cblxuLndwLWJsb2NrIHtcblx0XG4gIG1heC13aWR0aDogOTAlO1xuICBcblx0LndwLWJsb2NrIHtcblx0XHR3aWR0aDogOTAlO1xuXHR9XG59XG5cbiJdfQ== */
